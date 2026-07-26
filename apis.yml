@@ -1,8 +1,29 @@
 aid: distyl
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/distyl.png
 name: Distyl
-description: Distyl is a company surfaced as a portfolio company of khosla-ventures, lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Distyl is an applied-AI company architecting the AI-native enterprise. Rather than
+  layering automation onto broken processes, Distyl reimagines enterprise operations
+  from the ground up with AI at the core, partnering with Fortune 500 organizations
+  across Telecom, Healthcare, Manufacturing, Insurance, Retail, and Financial Services
+  to design and operationalize AI transformations and deploy production-grade agentic
+  AI systems in weeks. Its product suite includes Weave, Distillery, Context Mesh,
+  Context Views, Journey, Personalization, and Apprentice. Founded by operators and
+  researchers from Palantir, CIA, OpenAI, Google DeepMind, Tesla, NASA, Stanford, and
+  MIT, and backed by Coatue, OpenAI, Lightspeed, Microsoft, and Khosla Ventures. Distyl
+  is a services/platform company with no public developer API; this profile captures
+  its published web surface. Distyl is SOC 2 certified and GDPR compliant.
 url: https://raw.githubusercontent.com/api-evangelist/distyl/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +34,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Artificial Intelligence
+- Enterprise AI
+- Agentic AI
+- AI Agents
+- Machine Learning
+- Healthcare
+- Financial Services
+- Telecom
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +53,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://distyl.ai/
+  url: https://www.distyl.ai/
+- type: Blog
+  url: https://www.distyl.ai/blog/all
+- type: PrivacyPolicy
+  url: https://www.distyl.ai/privacy
+- type: TermsOfService
+  url: https://www.distyl.ai/terms
+- type: LLMsTxt
+  url: llms/distyl-llms.txt
+- type: Conformance
+  url: conformance/distyl-conformance.yml
+- type: Compliance
+  url: conformance/distyl-conformance.yml
+- type: DomainSecurity
+  url: security/distyl-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

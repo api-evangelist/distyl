@@ -1,0 +1,16 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.distyl.ai/llms.txt
+notes: >-
+  Distyl is an applied-AI / enterprise-AI services company with no public API,
+  OpenAPI, or developer platform. Compliance posture is a published claim on the
+  company's own canonical llms.txt ("Distyl is SOC 2 certified and GDPR
+  compliant"); there is no dedicated trust center or /.well-known/security.txt
+  (both probed 404 / not found on 2026-07-18).
+standards:
+- id: soc2
+  conforms: true
+  evidence: 'Distyl llms.txt Legal & Compliance section: "Distyl is SOC 2 certified"'
+- id: gdpr
+  conforms: true
+  evidence: 'Distyl llms.txt Legal & Compliance section: "GDPR compliant"'

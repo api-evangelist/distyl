@@ -1,0 +1,54 @@
+# Distyl
+
+> Distyl builds the intelligence layer for enterprises — systems that encode institutional expertise, execute mission-critical work, and compound in value with every decision.
+
+Distyl is an applied technology company architecting the AI-native enterprise. Rather than layering automation onto broken processes, Distyl reimagines enterprise operations from the ground up with AI built at the core. The company partners with the most ambitious Fortune 500 organizations — across Telecom, Healthcare, Manufacturing, Insurance, Retail, and Financial Services — to design and operationalize their AI transformations, deploying production-grade agentic AI systems in weeks, not years.
+
+Distyl was founded by operators and researchers from Palantir, CIA, OpenAI, Google DeepMind, Tesla, NASA, Stanford, and MIT. It is backed by Coatue, OpenAI, Lightspeed, Microsoft, and Khosla Ventures.
+
+Key outcomes delivered: powered 140M+ consumer interactions in one of the largest agentic AI deployments to date; 95% of AI systems moved from strategy into production (vs. the industry norm where 95% of enterprise AI stalls at the pilot stage); EBITDA impact in 6 months.
+
+## Pages
+
+- [Home](https://www.distyl.ai): Mission overview, product suite, proven production metrics, and research highlights
+- [Technology](https://www.distyl.ai/technology): Full product suite overview — all 7 Distyl products
+- [Weave](https://www.distyl.ai/technology/weave): Autonomous AI system construction — benchmark-topping systems built from natural language descriptions in under an hour
+- [Distillery](https://www.distyl.ai/technology/distillery): The operating system for enterprise AI — where subject matter experts build, deploy, and own AI systems at production scale
+- [Context Mesh](https://www.distyl.ai/technology/context-mesh): Enterprise knowledge structured for AI — the live, governed foundation every agent reads from and writes to
+- [Context Views](https://www.distyl.ai/technology/context-views): Enterprise semantic layer — transforms raw data into structured, queryable business objects agents can actually reason over
+- [Journey](https://www.distyl.ai/technology/journey): AI voice layer for existing apps — guides users through complex moments without a rebuild
+- [Personalization](https://www.distyl.ai/technology/personalization): 1:1 customer engagement at enterprise scale — every customer their own concierge across app, web, chat, and contact center
+- [Apprentice](https://www.distyl.ai/technology/apprentice): Tacit knowledge capture at scale — turns expert screen recordings into process maps, documentation, and automation
+- [About](https://www.distyl.ai/about): Company origin, founding philosophy, team background from Palantir/OpenAI/DeepMind/NASA/MIT/Stanford, and why Distyl rebuilds operations rather than automating broken processes
+- [Careers](https://www.distyl.ai/careers): Open roles and what it's like to build production AI systems at Distyl — define how the AI-native enterprise is built
+- [Blog](https://www.distyl.ai/blog/all): Applied AI insights, research findings, and thought leadership from the Distyl team
+
+## Blog
+
+All posts: [https://www.distyl.ai/blog/all](https://www.distyl.ai/blog/all)
+
+Categories:
+- [News](https://www.distyl.ai/blog/news): Company news and announcements
+- [Research](https://www.distyl.ai/blog/research): Applied AI research and technical findings
+- [Engineering](https://www.distyl.ai/blog/engineering): Engineering deep-dives and technical writing
+- [Frontier](https://www.distyl.ai/blog/frontier): Thinking from the frontier of AI
+
+Individual posts follow the pattern: https://www.distyl.ai/blog/{category}/{slug}
+Example: https://www.distyl.ai/blog/research/prefpo-optimizing-prompts-through
+
+## Legal & Compliance
+
+- [Privacy Policy](https://www.distyl.ai/privacy): Data handling and privacy commitments
+- [Terms of Service](https://www.distyl.ai/terms): Legal terms governing use of Distyl services
+- Distyl is SOC 2 certified and GDPR compliant
+
+## Full Content
+
+For the complete site content including all blog posts in a single file: https://www.distyl.ai/llms-full.txt
+
+## Contact
+
+- General inquiries: hello@distyl.ai
+- Press and media: press@distyl.ai
+- LinkedIn: https://www.linkedin.com/company/distyl-ai
+- X (Twitter): https://x.com/distylai
