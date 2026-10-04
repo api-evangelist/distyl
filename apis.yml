@@ -50,12 +50,11 @@ tags:
 - Company
 - Artificial Intelligence
 - Enterprise AI
-- Agentic AI
 - AI Agents
-- Machine-Learning
+- Machine Learning
 - Healthcare
-- Financial-Services
-- Telecom
+- Financial Services
+- Telecommunications
 tags_raw:
 - Company
 - Artificial Intelligence
@@ -66,6 +65,8 @@ tags_raw:
 - Healthcare
 - Financial Services
 - Telecom
+- Machine-Learning
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
